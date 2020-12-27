@@ -5,7 +5,7 @@ body {
 }
 
 .jumbotron {
-    background-image: url("/static/images/bacteriaheader.jpg");
+    background-image: url("bacteriaheader.jpg");
     background-size: 50% 150%;
     text-align: center;
   }

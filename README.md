@@ -11,4 +11,8 @@ The purpose of this project is to create a dashboard that will allow us to easil
 ![dashboard](https://github.com/ccastanette/BellyButtonBiodiversity/blob/master/static/images/whole.png)
 ![bubble](https://github.com/ccastanette/BellyButtonBiodiversity/blob/master/static/images/bubble.png)
 
-This was then published to a website using github pages that allows anyone to access the dashboard and select the samples they would like to view at will. My completed site is here: https://ccastanette.github.io/BellyButtonBiodiversity/
+This was then published to a website using github pages that allows anyone to access the dashboard and select the samples they would like to view at will. 
+
+### To view and interact with the data please click the link below:
+
+https://ccastanette.github.io/BellyButtonBiodiversity/

@@ -1,8 +1,4 @@
-body {
 
-  color:black;
-
-}
 
 .jumbotron {
   background-image: url("./static/images/bacteriaheader.jpg");
@@ -10,12 +6,4 @@ body {
   text-align: center;
 }
 
-#jumboTitle {
-  text-align: center;
-  color: red;
-}
 
-#subTitle {
-  text-align: center;
-  color: darkred;
-}
